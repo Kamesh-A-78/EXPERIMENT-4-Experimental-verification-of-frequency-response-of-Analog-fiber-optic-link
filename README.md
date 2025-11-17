@@ -43,9 +43,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/264e6cae-2cda-4616-be1a-f44f2fa82bb3" />
 
----
 
 ## CONNECTION DIAGRAM  
 **Setting up an Analog Link**
@@ -62,10 +61,13 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 |                |                              |              |            |
 
 ---
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/44b1873b-d007-409c-bd66-c154a6718fb4" />
 
 ## MODEL GRAPH
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0a69b8cb-b7be-4ec6-8273-8aa76edda4a1" />
 
-*(Insert model graph here)*
+
+
 
 ---
 
