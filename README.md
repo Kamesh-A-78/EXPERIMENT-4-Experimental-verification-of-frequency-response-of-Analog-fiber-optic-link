@@ -67,7 +67,7 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## BLOCK DIAGRAM
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/264e6cae-2cda-4616-be1a-f44f2fa82bb3" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a31e2e6-98e1-4386-9fc4-5ffb9c2dc5e5" />
 
 
 ## CONNECTION DIAGRAM  
@@ -85,10 +85,10 @@ current flows through its emitter generating the voltage across the resistance c
 |                |                              |              |            |
 
 ---
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/44b1873b-d007-409c-bd66-c154a6718fb4" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/abac3302-4b74-49d4-9ce7-22360d5469cf" />
 
 ## MODEL GRAPH
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0a69b8cb-b7be-4ec6-8273-8aa76edda4a1" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e7e9cc28-68a0-4e98-ad05-3f85cad72034" />
 
 
 
